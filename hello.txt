@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is local.
+=======
+this is changed
+>>>>>>> 78425edbc1f8f092c59d093305564715a07989d1
