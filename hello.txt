@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is local
+=======
+
+this is git 
+>>>>>>> 17ca12ab8043f5c30a13ceaac81ec7f6cfa63373
