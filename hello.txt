@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-this is local.
-=======
-this is changed
->>>>>>> 78425edbc1f8f092c59d093305564715a07989d1
-=======
 
->>>>>>> 3f599b25f65a598cd70ac4ac844e03ef7c507eeb
